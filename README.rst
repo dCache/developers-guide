@@ -17,7 +17,7 @@ Fork and clone the repo from github.com:dCache/dcache.git. Then configure the re
 Development procedure
 ---------------------
 
-**1.**:  create branch locally from upstream master or branches, make changes and commit them to branch, submit the patch to ReviewBoard for review::
+**1.**:  Create branch locally from upstream master or branches, make changes and commit them to branch, submit the patch to ReviewBoard for review::
 
     > git checkout -b <newbranch> -t  upstream/master 
 
