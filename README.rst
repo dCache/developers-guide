@@ -79,9 +79,9 @@ To update::
 
 **2.**: Wait for review (or bug/annoy people, accordingly ;-)
 
-**3.**: update patch and update RB (if appropriate)
+**3.**: Update patch and update RB (if appropriate)
 
-**4.** push changes to master.
+**4.** Push changes to master.
 
 Two possible contributions: new features and bug-fixes.  
 New features we don't back-port (into stable branches) 
